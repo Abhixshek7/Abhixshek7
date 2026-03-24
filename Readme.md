@@ -10,13 +10,13 @@ I build complete web applications — from database to deployment — with parti
 
 ## What I Work With
 
-**Frontend**
+**Frontend :**
 React, Next.js, TypeScript, Tailwind CSS, HTML, CSS
 
-**Backend**
+**Backend :**
 Node.js, Express, REST APIs, PostgreSQL, MongoDB
 
-**Tooling**
+**Tools :**
 Git, Docker, Vercel, Figma
 
 ---
